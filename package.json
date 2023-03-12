@@ -1,0 +1,25 @@
+{
+  "name": "hommework",
+  "version": "1.0.0",
+  "description": "Node secound lesson project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DarbinyanNshan/Hommework_BackEnd.git"
+  },
+  "author": "Nshan Darbinyan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DarbinyanNshan/Hommework_BackEnd/issues"
+  },
+  "homepage": "https://github.com/DarbinyanNshan/Hommework_BackEnd#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "fs-extra": "^11.1.0",
+    "nodemon": "^2.0.21"
+  }
+}
